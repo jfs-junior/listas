@@ -87,10 +87,10 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Variedades", TV Gazeta (SP)
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnn.jpg" group-title="Jornalismo",CNN BRASIL - DEGUSTAÇÃO SINAL INTERNET
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnn.jpg" group-title="Jornalismo", CNN BRASIL - DEGUSTAÇÃO SINAL INTERNET
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
-#EXTINF:-1 tvg-id="EURONEWS" tvg-logo="https://m3upt.com/logos/Euronews.png", group-title="Jornalismo", Euronews (PT)
+#EXTINF:-1 tvg-logo="https://m3upt.com/logos/Euronews.png" group-title="Jornalismo", Euronews (PT)
 http://euronews-pt-p11-cdn.hexaglobe.net/dacd5ed96d6683678599ac69df2d7349/5ff9d301/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
