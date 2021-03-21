@@ -39,7 +39,7 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnn.jpg" group-title="Jornalismo", CNN BRASIL - DEGUSTAÇÃO SINAL INTERNET
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://m3upt.com/logos/Euronews.png" group-title="Jornalismo", Euronews PT
+#EXTINF:-1 tvg-logo="https://www.earthhour.org/sites/default/files/euronews-logo.png" group-title="Jornalismo", Euronews PT
 http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
