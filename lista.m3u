@@ -40,7 +40,7 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.earthhour.org/sites/default/files/euronews-logo.png" group-title="Jornalismo", Euronews PT
-https://ptiptv.tk/euronews-pt.m3u8?CkcFnDzr65q9EVBU_ZgbpjRdnso
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616909156/ei/BL9fYKvIOO3K1sQPuPG06Ak/ip/170.238.215.18/id/VOw7bts_rGQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZ2ABwj5D29Iop9vth0UbFrYkgL5mZH2N7UTpgUtcxiACIQCi3yzfEpUkNdkqff0h1wqv4oNEgd6dz8rEWPgjDq2KwQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
